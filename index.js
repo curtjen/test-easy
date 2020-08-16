@@ -56,4 +56,4 @@ class TestEasy {
   }
 }
 
-exports.TestEasy;
+exports.TestEasy = TestEasy;
