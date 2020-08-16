@@ -1,0 +1,14 @@
+{
+  "name": "test-easy",
+  "version": "0.0.1",
+  "description": "Utility for easier, faster, creation of React Testing Library unit tests.",
+  "main": "index.js",
+  "author": "curtjen",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@testing-library/react": "^10.4.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
