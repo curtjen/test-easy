@@ -1,6 +1,6 @@
 // import React from 'react';
 // import { render } from '@testing-library/react';
-require('react');
+const React = require('react');
 const { render } = require('@testing-library/react');
 
 /**

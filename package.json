@@ -1,6 +1,6 @@
 {
   "name": "test-easy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Utility for easier, faster, creation of React Testing Library unit tests.",
   "main": "index.js",
   "author": "curtjen",
